@@ -1,67 +1,44 @@
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Arsenal
 
-<br/>
-
-### 🚀 Frontend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" style="margin:8px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="42" style="margin:8px"/>
+### 🌐 Frontend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,vite&perline=10" />
+  </a>
 </p>
 
-<br/>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="42" style="margin:8px" title="REST APIs"/>
-  <img src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" width="42" style="margin:8px"/>
+### ⚙️ Backend & Architecture
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=10" />
+  </a>
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=json&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="28"/>
 </p>
 
-<br/>
-
-### 🛢️ Database
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" style="margin:8px"/>
+### 🧰 DevOps & Infrastructure
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,linux&perline=10" />
+  </a>
 </p>
 
-<br/>
-
-### 🧰 Tools & DevOps
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" style="margin:8px"/>
-</p>
-
-<br/>
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" style="margin:8px"/>
+### 💻 Core Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python&perline=10" />
+  </a>
 </p>
 
 <br/>
 <hr/>
 <br/>
 
-### 📌 Currently Focused On
-<p align="center">
-  🚀 <b>Full-Stack MERN SaaS applications</b><br/><br/>
-  🤖 <b>AI integration in web apps</b><br/><br/>
-  🧠 <b>DSA & system fundamentals</b>
-</p>
-
-enhance this 
+### 🎯 Current Engineering Focus
+> 🚀 **Architecting Full-Stack SaaS:** Scaling MERN applications with robust backends and secure data management.
+> <br/>
+> 🤖 **AI Integration:** Bridging machine learning models and intelligent tools with responsive web frontends.
+> <br/>
+> 🧠 **Core Computer Science:** Deepening foundations in Data Structures, Algorithms, and System Architecture.
