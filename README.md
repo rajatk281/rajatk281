@@ -1,79 +1,67 @@
-<h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN | AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+Web+Apps;MERN+Stack+Developer;AI+Integration+Enthusiast;DSA+Learner" />
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 B.Tech CSE Student  
-- 💡 Passionate about **building SaaS products & AI-powered apps**  
-- 🧠 Currently improving **DSA & system design**  
-- ⚡ Love solving real-world problems with code  
-
----
-
 ## 🛠️ Tech Stack
+
+<br/>
 
 ### 🚀 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" style="margin:8px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="42" style="margin:8px"/>
 </p>
+
+<br/>
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="42" style="margin:8px" title="REST APIs"/>
+  <img src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" width="42" style="margin:8px"/>
 </p>
+
+<br/>
 
 ### 🛢️ Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" style="margin:8px"/>
 </p>
+
+<br/>
 
 ### 🧰 Tools & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" style="margin:8px"/>
 </p>
 
-### 💻 Languages
+<br/>
+
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" style="margin:8px"/>
 </p>
 
----
+<br/>
+<hr/>
+<br/>
 
-## 📊 GitHub Stats
-
+### 📌 Currently Focused On
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&cache_seconds=1800" />
+  🚀 <b>Full-Stack MERN SaaS applications</b><br/><br/>
+  🤖 <b>AI integration in web apps</b><br/><br/>
+  🧠 <b>DSA & system fundamentals</b>
 </p>
 
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 🔥 Current Focus
-- 🚀 MERN SaaS Applications  
-- 🤖 AI Integration in Web Apps  
-- 🧠 DSA + System Design  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
-
----
-
-⭐️ From Rajat Kumar
+enhance this 
