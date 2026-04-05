@@ -51,7 +51,7 @@
 
 ### 🧰 Core Languages, Tools & DevOps
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,postman,linux,vscode&perline=12" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,postman&perline=12" /></a>
 </p>
 
 ---
